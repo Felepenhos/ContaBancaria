@@ -1,6 +1,8 @@
 # ContaBancaria
 # CUCUMBER 
 Cucumber é usado para descrever o valor do negócio em uma linguagem natural, por isso permite que equipes de desenvolvimento de software descrevam como o software deve se comportar em texto simples, escrevendo especificações através de exemplos.
+![CUCUMBER](https://github.com/Felepenhos/ContaBancaria/assets/116446769/b036e7d9-feb4-41a0-ac2e-858ed27795c9)
+ 
 # Classe para Teste 
 ![Arquivo teste ](https://github.com/Felepenhos/ContaBancaria/assets/116446769/2e7c4444-f19a-4c00-8044-5f0f77bd27e0)  
 
