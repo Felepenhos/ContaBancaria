@@ -11,4 +11,11 @@ Cucumber é usado para descrever o valor do negócio em uma linguagem natural, p
 ![teste_ohata2](https://github.com/Felepenhos/ContaBancaria/assets/116446769/19abb496-f2f9-46f9-865d-67362d342daa) 
 
 
+# Tecnologia 
+Linguagem de Programação Java  , Cucumber 
+
+# IDE 
+Eclipse 
+
+# ULTIMA ATUALIZAÇÃO 26/11/2023
 
