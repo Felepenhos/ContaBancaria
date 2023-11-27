@@ -6,7 +6,7 @@ import cucumber.api.java.en.When;
 public class Conta {
 	/**
 	 *@author luisf
-	 * @param int1
+	 * @param arg1  esse é o primeiro parametro 
 	 * @throws Throwable
 	 */
 	@Given("^um cliente especial com saldo atual de -(\\d+) reais$")
